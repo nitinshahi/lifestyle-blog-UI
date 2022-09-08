@@ -307,6 +307,7 @@ header .date {
   background-size: cover;
   background-position: center;
   border-radius: 0.8rem;
+  margin-bottom: 1rem;
 }
 .must-read-card p {
 }
