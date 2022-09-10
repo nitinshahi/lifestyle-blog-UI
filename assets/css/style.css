@@ -24,6 +24,21 @@ a {
   padding-right: 10rem; */
 }
 
+.float-box {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 10%;
+  margin-left: 158rem;
+}
+.float-box button {
+  width: 200%;
+  line-height: 2.5;
+  border-radius: 0%;
+  border: 0;
+  margin: 0.1rem;
+}
+
 header {
   display: flex;
   justify-content: space-between;
